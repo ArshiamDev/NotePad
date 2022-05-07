@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ee6b311-949a-4cd2-bad8-f496741560fa": {
+      "ProjectGuid": "3ee6b311-949a-4cd2-bad8-f496741560fa",
+      "DisplayName": "Notpad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
